@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Dear Students and Mentees
 
 You can use the [editor on GitHub](https://github.com/qualnite/yoursmentor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
